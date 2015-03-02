@@ -1,5 +1,5 @@
 # Google Apps Script Project: cSiteStats
-This repo (cSiteStats) was automatically updated on 13 February 2015 21:18:56 GMT by GasGit
+This repo (cSiteStats) was automatically updated on 02 March 2015 19:31:31 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cSiteStats
@@ -16,18 +16,18 @@ instrumentationTemplate| html
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|35|no|[here](libraries/cDbAbstraction "library source")
-cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|5|no|[here](libraries/cDriverMongoLab "library source")
+cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|6|no|[here](libraries/cDriverMongoLab "library source")
+cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|35|no|[here](libraries/cDbAbstraction "library source")
-cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|7|no|[here](libraries/cFlatten "library source")
+cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|6|no|[here](libraries/cDriverMongoLab "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
+cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
+cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|no|[here](libraries/cFlatten "library source")
 cUAMeasure| cUAMeasure|MIHfxr-fc_7bXa1l0Dkk0oqi_d-phDA33|6|no|[here](libraries/cUAMeasure "library source")
-cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|11|no|[here](libraries/cNamedLock "library source")
-cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|11|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|17|no|[here](libraries/cUseful "library source")
-cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|5|no|[here](libraries/cDriverMongoLab "library source")
+cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|12|no|[here](libraries/cNamedLock "library source")
+cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|13|no|[here](libraries/cCacheHandler "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
