@@ -1,5 +1,5 @@
 # Google Apps Script Project: cSiteStats
-This repo (cSiteStats) was automatically updated on 30 October 2018 16:45:15 GMT by GasGit
+This repo (cSiteStats) was automatically updated on 31 October 2018 11:36:25 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cSiteStats
@@ -31,5 +31,7 @@ cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH
 cUAMeasure| cUAMeasure|17gzIYCpQ_8jN8rR1mQ8POa5VS5C4TYTiDuEIlpEMQmRGe2S51MvKf2LO|6|no|[here](libraries/cUAMeasure "library source")
 ### Enabled Google Services
 no libraries discovered
+### Scopes required
+no scopes discovered
 ### Need more detail ?
 You can see [full project info as json here](info.json)
